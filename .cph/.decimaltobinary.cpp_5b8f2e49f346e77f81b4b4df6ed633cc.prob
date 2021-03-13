@@ -1,0 +1,1 @@
+{"name":"Local: decimaltobinary","url":"/Users/rishabhthakur/Documents/c++ /decimaltobinary.cpp","tests":[{"id":1605795123047,"input":"10","output":""},{"id":1605795208330,"input":"123","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rishabhthakur/Documents/c++ /decimaltobinary.cpp","group":"local","local":true}
